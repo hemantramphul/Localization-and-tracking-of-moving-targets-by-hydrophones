@@ -22,14 +22,15 @@ Implementation in Arduino and Matlab
 | Matlab | https://www.mathworks.com/products/matlab.html |
 | Arduino | https://www.arduino.cc/ |
 | LM393 Microphone Sound Sensor | https://components101.com/modules/lm393-sound-detection-sensor-module |
-| Interface OLED Graphic Display Module | https://lastminuteengineers.com/oled-display-arduino-tutorial/ |
+| Interface OLED Graphic Display Module | https://microcontrollerslab.com/oled-display-arduino-tutorial/ |
 | 5mm LED Light | https://www.ledsupply.com/5mm-leds |
 
 ## 🚀 About Me
 I'm a full stack developer...
 
 Author: Hemant Ramphul <br>
-Github: https://github.com/hemantramphul/Localization-and-tracking-of-moving-targets-by-hydrophones <br>
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white : https://www.linkedin.com/in/hemantramphul/ <br>
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white : https://github.com/hemantramphul/ <br>
 Date: 05 May 2023 <br>
 
 ___
