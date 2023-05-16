@@ -22,6 +22,8 @@ Implementation in Arduino and Matlab
 | Matlab | https://www.mathworks.com/products/matlab.html |
 | Arduino | https://www.arduino.cc/ |
 | LM393 Microphone Sound Sensor | https://components101.com/modules/lm393-sound-detection-sensor-module |
+| Interface OLED Graphic Display Module | https://lastminuteengineers.com/oled-display-arduino-tutorial/ |
+| 5mm LED Light | https://www.ledsupply.com/5mm-leds |
 
 ## 🚀 About Me
 I'm a full stack developer...
