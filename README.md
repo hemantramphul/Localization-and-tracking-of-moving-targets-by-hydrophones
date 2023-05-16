@@ -26,14 +26,6 @@ Implementation in Arduino and Matlab
 | 5mm LED Light | https://www.ledsupply.com/5mm-leds |
 
 ## 🚀 About Me
-I'm a full stack developer...
-
-Author: Hemant Ramphul <br>
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hemantramphul/)
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hemantramphul/)
-Date: 05 May 2023 <br>
-
 <h1 align='center'>
   Hi there 👋 I'm Hemant 👨‍💻
 </h1>
@@ -42,15 +34,19 @@ Date: 05 May 2023 <br>
   A full stack developer from Mauritius. 
 </p>
 
-<p align='center'>
-  
+<p align='center'>  
   <a href="https://www.linkedin.com/in/hemantramphul/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/hemantramphul/">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  
+  <a href="https://stackoverflow.com/users/3537318/hemant-ramphul">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />        
+  </a>&nbsp;&nbsp;  
+  <a href="https://www.facebook.com/hramphul/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />        
+  </a>&nbsp;&nbsp;  
 </p>
 
 <p align='center'>
