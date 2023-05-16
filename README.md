@@ -13,7 +13,7 @@ Implementation in Arduino and Matlab
 ![Screenshot](Wiring/Wiring_bb.png)
 
 #### Setup 
-![Screenshot](images/setup.jpg)
+![Screenshot](Wiring/setup.png)
 
 #### Plugins and others
 
