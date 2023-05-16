@@ -25,8 +25,9 @@ Implementation in Arduino and Matlab
 | Interface OLED Graphic Display Module | https://microcontrollerslab.com/oled-display-arduino-tutorial/ |
 | 5mm LED Light | https://www.ledsupply.com/5mm-leds |
 
-## 🚀 About Me
+
 <h1 align='center'>
+  ## 🚀 About Me
   Hi there 👋 I'm Hemant 👨‍💻
 </h1>
 
