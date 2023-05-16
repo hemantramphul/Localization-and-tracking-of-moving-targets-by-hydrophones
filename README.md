@@ -26,16 +26,16 @@ Implementation in Arduino and Matlab
 | 5mm LED Light | https://www.ledsupply.com/5mm-leds |
 
 
-<h1 align='center'>
-  ## 🚀 About Me
+## 🚀 About Me
+<h1>
   Hi there 👋 I'm Hemant 👨‍💻
 </h1>
 
-<p align='center'>
+<p>
   A full stack developer from Mauritius. 
 </p>
 
-<p align='center'>  
+<p>  
   <a href="https://www.linkedin.com/in/hemantramphul/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -50,7 +50,7 @@ Implementation in Arduino and Matlab
   </a>&nbsp;&nbsp;  
 </p>
 
-<p align='center'>
+<p>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=hemantramphul&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
