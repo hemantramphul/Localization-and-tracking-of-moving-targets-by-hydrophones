@@ -29,8 +29,9 @@ Implementation in Arduino and Matlab
 I'm a full stack developer...
 
 Author: Hemant Ramphul <br>
-![Screenshot](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) : https://www.linkedin.com/in/hemantramphul/ <br>
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white : https://github.com/hemantramphul/ <br>
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hemantramphul/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hemantramphul/)
 Date: 05 May 2023 <br>
 
 ___
