@@ -34,15 +34,27 @@ Author: Hemant Ramphul <br>
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hemantramphul/)
 Date: 05 May 2023 <br>
 
+<h1 align='center'>
+  Hi there 👋 I'm Hemant 👨‍💻
+</h1>
+
+<p align='center'>
+  A full stack developer from Mauritius. 
+</p>
+
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/alexandresanlim/">
+  <a href="https://www.linkedin.com/in/hemantramphul/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/alexandresanlim">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  <a href="https://github.com/hemantramphul/">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=hemantramphul&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 ___
