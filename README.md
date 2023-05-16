@@ -34,6 +34,17 @@ Author: Hemant Ramphul <br>
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hemantramphul/)
 Date: 05 May 2023 <br>
 
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/alexandresanlim/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/alexandresanlim">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
+
 ___
 
 ##### Université des Mascareignes (UdM)
