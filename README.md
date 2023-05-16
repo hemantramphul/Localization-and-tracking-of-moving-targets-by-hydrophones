@@ -10,7 +10,7 @@ The code defines the pins for each microphone and their positions in space, then
 Implementation in Arduino and Matlab
 
 #### Wiring 
-![Screenshot](images/SmartParking.png)
+![Screenshot](Wiring/Wiring_bb.png)
 
 #### Setup 
 ![Screenshot](images/setup.jpg)
