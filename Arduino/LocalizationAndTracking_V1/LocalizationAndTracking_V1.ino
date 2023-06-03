@@ -9,9 +9,9 @@
 //                   the Pythagorean theorem.
 // Language        : Arduino and Matlab
 // Author          : Hemant Ramphul
-// Github          : https://github.com/hemantramphul/Localization-and-tracking-of-moving-targets-by-hydrophones
+// Github          : https://github.com/hemantramphul/Localization-and-tracking-of-moving-targets-by-hydrophones/
 // Date            : 05 May 2023
-// 
+
 // Université des Mascareignes (UdM)
 // Faculty of Information and Communication Technology
 // Master Artificial Intelligence and Robotics
@@ -40,14 +40,14 @@ int calculateDelay(int mic1val, int mic2val) {
   int time1 = 0;
   while (analogRead(mic1) < threshold) {
     time1++;
-    delayMicroseconds(1);
+    delay(1);
   }
 
   // Find the time at which mic2's waveform crosses the same threshold
   int time2 = 0;
   while (analogRead(mic2) < threshold) {
     time2++;
-    delayMicroseconds(1);
+    delay(1);
   }
   
   // Return the time difference between the two waveforms
@@ -72,6 +72,7 @@ void handleLeds(int mic) {
     digitalWrite(LED3, HIGH);
   }
 
+  // Wait for 100ms before taking another measurement
   delay(1000);
 
   digitalWrite(LED1, LOW);
@@ -126,17 +127,13 @@ void loop() {
   }
 
   // Print the nearest microphone
-  Serial.print("Nearest microphone: ");
-  Serial.println(nearestMic + 1);
-
-  // Turn on the led for the conresponding microphone 
-  handleLeds(nearestMic + 1);
-
+  Serial.print(nearestMic + 1);
+  Serial.print(" NM; x = ");
   // Print the x and y coordinates of the sound source
-  Serial.print("x = ");
   Serial.print(x);
   Serial.print(", y = ");
   Serial.println(y);
 
-  delay(1000); // Wait for 100ms before taking another measurement
+  // Turn on the led for the coresponding microphone 
+  handleLeds(nearestMic + 1);
 }
