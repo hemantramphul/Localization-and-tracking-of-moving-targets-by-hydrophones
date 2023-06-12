@@ -1,5 +1,5 @@
 // """
-// Assignment Title: Localization and tracking of moving targets by hydrophones
+// Project Title   : Localization and tracking of moving targets by hydrophones
 // Purpose         : Implementation a sound triangulation system using three hydrophones to locate the source of a sound. 
 //                   The code defines the pins for each hydrophone and their positions in space, then initializes the serial 
 //                   communication and sets the pins as input. In the loop, the code reads the analog values from each hydrophone, 
@@ -109,7 +109,10 @@ int LED2 = 9;
 int LED3 = 10;
 int LED_ONOFF = 11; // System ON/OFF
 
-const float soundSpeed = 343.0; // Speed of sound in m/s
+// Speed of sound in m/s 
+// Air sound speed 343.0 m/s 
+// Underwater sound speed 1480.0 m/s 
+const float soundSpeed = 343.0; 
 
 const float positions[3][2] = {
   {0.0, 0.0}, // Hydrophone 1 position (x, y) in meters
